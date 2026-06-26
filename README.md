@@ -4,6 +4,11 @@ An AI-powered Movie Recommendation System built using **Machine Learning and Str
 The application recommends movies based on user preferences using **Content-Based Filtering**.
 
 ---
+## Project Screenshot
+
+![Movie Recommendation System](screenshots/movie_ai.png)
+
+---
 
 ## Features
 
@@ -56,13 +61,3 @@ The system recommends movies by comparing movie features.
 - Streamlit
 
 ---
-
-## Project Structure
-Movie-Recommendation-System/
-
-│
-├── app.py
-├── recommender.py
-├── movies.csv
-├── requirements.txt
-└── README.md
